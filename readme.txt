@@ -1,6 +1,5 @@
 NOTE-
-1. Screenshots are inside the TheCardsGame folder.
-2. It's a .NET core based console application.
+It's a .NET core based console application.
 
 Problem Statement
 Given a deck of cards, develop a console application. 
